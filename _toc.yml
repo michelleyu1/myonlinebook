@@ -7,5 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: mymarkdownfile
 - file: bias_decomposition
 - file: analysis/notebooks_in_analysis
